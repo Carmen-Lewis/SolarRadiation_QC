@@ -2,7 +2,6 @@
 Quality control tests for solar radiation.
 
 ## Code
-This classification method is based on **minute resolution** data. (or other?) \
 May be used for either timezone-naive datasets such as [SAURAN](https://sauran.ac.za/) or timezone-aware datasets such as [BSRN](https://bsrn.awi.de/).
 
 [`main.py`](main.py):
