@@ -1,5 +1,6 @@
 # SolarRadiation_QC
 Quality control tests for solar radiation.
+The details are discussed [here](http://www.solarxy.org/2021/05/31/solar-radiation-quality-control-tests/).
 
 ## Code
 May be used for either timezone-naive datasets such as [SAURAN](https://sauran.ac.za/) or timezone-aware datasets such as [BSRN](https://bsrn.awi.de/).
